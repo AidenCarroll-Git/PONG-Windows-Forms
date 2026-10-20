@@ -6,3 +6,6 @@ PLAYER 1 (Left)
 W = up | S = down  
 PLAYER 2 (Right)  
 Arrow Up = Up | Arrow Down = Down
+
+Requires:  
+Visual Studio, .NET, and Visual Basic forms app functions for visual studio
